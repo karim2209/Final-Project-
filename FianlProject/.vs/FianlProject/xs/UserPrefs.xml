@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{32441757-F00A-4386-85B6-53B7FB1DD63B}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FianlProject/Models/Repositories/ProductRepository.cs">
+    <Files>
+      <File FileName="FianlProject/Controllers/ProductsController.cs" Line="6" Column="40" />
+      <File FileName="FianlProject/Models/Product.cs" Line="17" Column="19" />
+      <File FileName="FianlProject/Filters/ActionFilters/Product_ValidateCreateProductFilterAttribute.cs" Line="31" Column="73" />
+      <File FileName="FianlProject/Filters/ActionFilters/Product_ValidateProductIdFilterAttribute.cs" Line="20" Column="64" />
+      <File FileName="FianlProject/Filters/ActionFilters/Product_ValidateUpdateProductFilterAttribute.cs" Line="18" Column="73" />
+      <File FileName="FianlProject/Filters/ExceptionFilters/Product_HandleUpdateExceptionsFilterAttribute.cs" Line="19" Column="75" />
+      <File FileName="FianlProject/Models/Repositories/ProductRepository.cs" Line="14" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FianlProject" expanded="True">
+            <Node name="FianlProject" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Filters" expanded="True">
+                <Node name="ActionFilters" expanded="True" />
+                <Node name="ExceptionFilters" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True">
+                <Node name="Repositories" expanded="True">
+                  <Node name="ProductRepository.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FianlProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
